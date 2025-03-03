@@ -7,4 +7,7 @@ public class Task {
         this.id = id;
         this.status = status;
     }
+    public int getId() {
+        return id;
+    }
 }
